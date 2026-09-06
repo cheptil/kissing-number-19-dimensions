@@ -1,0 +1,11 @@
+PASS: all five generator identities and the first-12-column rank certificate.
+PASS: weight distribution of H is 1 + 5 z^4 + 10 z^6; K = M direct-sum H.
+PASS: the Fourier dual polynomial is feasible in exact arithmetic.
+PASS: |D|=4096, |K|=1024, |H|=16; 21 forbidden differences.
+PASS: exact independence number of the 16-vertex certificate graph is 5.
+PASS: 64 H-cosets in K give alpha(K) <= 320.
+PASS: 256 H-cosets in D give alpha(D) <= 1280.
+PASS: explicit matching constructions of sizes 320 and 1280.
+PASS: their exact minimum distances are 6 and 5, respectively.
+PROVED for these explicit codes: alpha(K)=320 and alpha(D)=1280.
+No assertion of an upper bound on the unrestricted kissing number k(19).
